@@ -1,0 +1,38 @@
+
+Influence Simulator — Model Report
+=================================
+
+Train size : 271
+Test  size : 68
+
+Accuracy   : 0.235
+F1 Score   : 0.000
+
+Train Accuracy : 0.723
+
+Confusion Matrix:
+[[16 52]
+ [ 0  0]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      0.24      0.38        68
+           1       0.00      0.00      0.00         0
+
+    accuracy                           0.24        68
+   macro avg       0.50      0.12      0.19        68
+weighted avg       1.00      0.24      0.38        68
+
+
+Feature Importance:
+        feature  coefficient      abs
+  dormancy_flag    -1.189182 1.189182
+    trend_score    -0.876526 0.876526
+      sentiment     0.702684 0.702684
+       momentum    -0.367484 0.367484
+    growth_rate    -0.255228 0.255228
+ revival_signal    -0.153035 0.153035
+  rolling_avg_3     0.132537 0.132537
+  rolling_avg_6     0.047512 0.047512
+engagement_rate    -0.005047 0.005047

@@ -1,0 +1,306 @@
+[
+  {
+    "idea": "Frugal Hedonism",
+    "revival_probability": 0.6689
+  },
+  {
+    "idea": "Open Source",
+    "revival_probability": 0.6522
+  },
+  {
+    "idea": "Space Commerce",
+    "revival_probability": 0.6167
+  },
+  {
+    "idea": "New Age Spirituality",
+    "revival_probability": 0.5847
+  },
+  {
+    "idea": "Van Life",
+    "revival_probability": 0.5631
+  },
+  {
+    "idea": "Digital Detox",
+    "revival_probability": 0.5626
+  },
+  {
+    "idea": "Secular Buddhism",
+    "revival_probability": 0.545
+  },
+  {
+    "idea": "Effective Altruism",
+    "revival_probability": 0.478
+  },
+  {
+    "idea": "Zine Culture",
+    "revival_probability": 0.4662
+  },
+  {
+    "idea": "Radical Acceptance",
+    "revival_probability": 0.4598
+  },
+  {
+    "idea": "Minimalism",
+    "revival_probability": 0.4506
+  },
+  {
+    "idea": "Forest Bathing",
+    "revival_probability": 0.4283
+  },
+  {
+    "idea": "Absurdism",
+    "revival_probability": 0.3679
+  },
+  {
+    "idea": "Feminism",
+    "revival_probability": 0.3677
+  },
+  {
+    "idea": "Hustle Culture",
+    "revival_probability": 0.3571
+  },
+  {
+    "idea": "Cyberpunk",
+    "revival_probability": 0.3431
+  },
+  {
+    "idea": "Gorpcore",
+    "revival_probability": 0.3411
+  },
+  {
+    "idea": "FIRE Movement",
+    "revival_probability": 0.3386
+  },
+  {
+    "idea": "Indie Film",
+    "revival_probability": 0.3243
+  },
+  {
+    "idea": "Degrowth",
+    "revival_probability": 0.2853
+  },
+  {
+    "idea": "Web3",
+    "revival_probability": 0.2798
+  },
+  {
+    "idea": "Therapy Culture",
+    "revival_probability": 0.2505
+  },
+  {
+    "idea": "Normcore",
+    "revival_probability": 0.2405
+  },
+  {
+    "idea": "Longtermism",
+    "revival_probability": 0.2352
+  },
+  {
+    "idea": "Vaporwave",
+    "revival_probability": 0.2342
+  },
+  {
+    "idea": "Post-Humanism",
+    "revival_probability": 0.2299
+  },
+  {
+    "idea": "Cassette Tape Revival",
+    "revival_probability": 0.2285
+  },
+  {
+    "idea": "Blockchain",
+    "revival_probability": 0.2233
+  },
+  {
+    "idea": "Crystal Healing",
+    "revival_probability": 0.2135
+  },
+  {
+    "idea": "Secular Humanism",
+    "revival_probability": 0.1995
+  },
+  {
+    "idea": "Pragmatism",
+    "revival_probability": 0.1846
+  },
+  {
+    "idea": "Vinyl Revival",
+    "revival_probability": 0.1813
+  },
+  {
+    "idea": "Metaverse",
+    "revival_probability": 0.1794
+  },
+  {
+    "idea": "Maximalism",
+    "revival_probability": 0.169
+  },
+  {
+    "idea": "Rationalism",
+    "revival_probability": 0.1453
+  },
+  {
+    "idea": "Anti-Consumerism",
+    "revival_probability": 0.1415
+  },
+  {
+    "idea": "Doomscrolling",
+    "revival_probability": 0.1179
+  },
+  {
+    "idea": "AI Ethics",
+    "revival_probability": 0.1125
+  },
+  {
+    "idea": "Neo-Tribalism",
+    "revival_probability": 0.1121
+  },
+  {
+    "idea": "Decentralized Governance",
+    "revival_probability": 0.1071
+  },
+  {
+    "idea": "Slow Living",
+    "revival_probability": 0.1033
+  },
+  {
+    "idea": "Decentralization",
+    "revival_probability": 0.0952
+  },
+  {
+    "idea": "Biohacking",
+    "revival_probability": 0.0948
+  },
+  {
+    "idea": "Solipsism",
+    "revival_probability": 0.0886
+  },
+  {
+    "idea": "Nihilism",
+    "revival_probability": 0.0872
+  },
+  {
+    "idea": "Existentialism",
+    "revival_probability": 0.0828
+  },
+  {
+    "idea": "Epicureanism",
+    "revival_probability": 0.0785
+  },
+  {
+    "idea": "Cold Therapy",
+    "revival_probability": 0.0754
+  },
+  {
+    "idea": "Breathwork",
+    "revival_probability": 0.0733
+  },
+  {
+    "idea": "Cynicism",
+    "revival_probability": 0.0733
+  },
+  {
+    "idea": "Algorithmic Resistance",
+    "revival_probability": 0.0633
+  },
+  {
+    "idea": "Hedonism",
+    "revival_probability": 0.0617
+  },
+  {
+    "idea": "Cottagecore",
+    "revival_probability": 0.0601
+  },
+  {
+    "idea": "Veganism",
+    "revival_probability": 0.0576
+  },
+  {
+    "idea": "Determinism",
+    "revival_probability": 0.0559
+  },
+  {
+    "idea": "Privacy Technology",
+    "revival_probability": 0.0515
+  },
+  {
+    "idea": "Moral Relativism",
+    "revival_probability": 0.0509
+  },
+  {
+    "idea": "Journaling",
+    "revival_probability": 0.0498
+  },
+  {
+    "idea": "Environmentalism",
+    "revival_probability": 0.0462
+  },
+  {
+    "idea": "4-Day Work Week",
+    "revival_probability": 0.0447
+  },
+  {
+    "idea": "Cryptocurrency",
+    "revival_probability": 0.0392
+  },
+  {
+    "idea": "Sleep Optimization",
+    "revival_probability": 0.0374
+  },
+  {
+    "idea": "Work-Life Balance",
+    "revival_probability": 0.0341
+  },
+  {
+    "idea": "Dark Academia",
+    "revival_probability": 0.0281
+  },
+  {
+    "idea": "Astrology",
+    "revival_probability": 0.0265
+  },
+  {
+    "idea": "Digital Nomad",
+    "revival_probability": 0.0226
+  },
+  {
+    "idea": "Stoicism",
+    "revival_probability": 0.0187
+  },
+  {
+    "idea": "Quiet Quitting",
+    "revival_probability": 0.0129
+  },
+  {
+    "idea": "Retro Gaming",
+    "revival_probability": 0.0091
+  },
+  {
+    "idea": "Mindfulness",
+    "revival_probability": 0.0087
+  },
+  {
+    "idea": "Goblin Mode",
+    "revival_probability": 0.0085
+  },
+  {
+    "idea": "Remote Work",
+    "revival_probability": 0.0055
+  },
+  {
+    "idea": "Freelance Economy",
+    "revival_probability": 0.0016
+  },
+  {
+    "idea": "Lo-fi Music",
+    "revival_probability": 0.0
+  },
+  {
+    "idea": "Meditation",
+    "revival_probability": 0.0
+  },
+  {
+    "idea": "Y2K Aesthetic",
+    "revival_probability": 0.0
+  }
+]

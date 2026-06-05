@@ -1,0 +1,21 @@
+=== Influence Simulator Revival Model Report ===
+
+Training rows    : 8588
+Unique ideas     : 76
+Features         : 9
+Model            : RandomForestClassifier (n_estimators=200)
+
+CV ROC-AUC       : 0.8112  0.0150
+Train Accuracy   : 0.9286
+Train ROC-AUC    : 0.9770
+
+Feature Importances:
+  rolling_avg_6        0.1775
+  rolling_avg_3        0.1763
+  trend_score          0.1487
+  growth_rate          0.1450
+  momentum             0.1440
+  sentiment            0.1159
+  engagement_rate      0.0762
+  dormancy_flag        0.0092
+  revival_signal       0.0071

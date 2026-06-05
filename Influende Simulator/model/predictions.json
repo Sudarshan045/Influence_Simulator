@@ -1,0 +1,77 @@
+[
+  {
+    "idea": "Stoicism",
+    "current_state": "Peak",
+    "base_probability": 0.3343,
+    "karma_score": 0.731,
+    "adjusted_probability": 0.3652,
+    "peak_year_estimate": 2035,
+    "confidence_score": 0.3314,
+    "feature_scores": {
+      "trend_score": 75.97,
+      "momentum": 6.39,
+      "growth_rate": -0.039,
+      "engagement_rate": 0.423,
+      "sentiment": 0.492,
+      "dormancy_flag": 0,
+      "revival_signal": 0
+    },
+    "karma_breakdown": {
+      "mental_health_index": 0.68,
+      "economic_instability": 0.525,
+      "productivity_culture": 0.525,
+      "social_fragmentation": 0.39
+    },
+    "markov_modifier": 0.3652
+  },
+  {
+    "idea": "Minimalism",
+    "current_state": "Decline",
+    "base_probability": 0.6834,
+    "karma_score": 0.7283,
+    "adjusted_probability": 0.7458,
+    "peak_year_estimate": 2031,
+    "confidence_score": 0.3668,
+    "feature_scores": {
+      "trend_score": 58.26,
+      "momentum": -4.3,
+      "growth_rate": -12.457,
+      "engagement_rate": 0.268,
+      "sentiment": 0.697,
+      "dormancy_flag": 0,
+      "revival_signal": 0
+    },
+    "karma_breakdown": {
+      "mental_health_index": 0.48,
+      "economic_instability": 0.56,
+      "productivity_culture": 0.375,
+      "social_fragmentation": 0.26
+    },
+    "markov_modifier": 0.7458
+  },
+  {
+    "idea": "Nihilism",
+    "current_state": "Revival",
+    "base_probability": 0.407,
+    "karma_score": 0.717,
+    "adjusted_probability": 0.4423,
+    "peak_year_estimate": 2034,
+    "confidence_score": 0.186,
+    "feature_scores": {
+      "trend_score": 28.42,
+      "momentum": 1.38,
+      "growth_rate": -13.221,
+      "engagement_rate": 0.372,
+      "sentiment": 0.046,
+      "dormancy_flag": 0,
+      "revival_signal": 0
+    },
+    "karma_breakdown": {
+      "mental_health_index": 0.56,
+      "economic_instability": 0.455,
+      "productivity_culture": 0.15,
+      "social_fragmentation": 0.52
+    },
+    "markov_modifier": 0.4423
+  }
+]

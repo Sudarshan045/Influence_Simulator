@@ -81,10 +81,20 @@ influence-ui/
 
 ## How to Run
 
-### Frontend
+### 1. Database Setup
+The application uses **MongoDB** (either MongoDB Atlas or a local instance).
+1. Copy the environment variables template:
+   ```bash
+   cp backend/.env.example backend/.env
+   ```
+2. Open `backend/.env` and update the `MONGODB_URI` and `GROQ_API_KEY` (required for LLM features and chatbot insights).
+
+---
+
+### 2. Frontend (Vite + React)
 
 ```bash
-cd influence-ui
+# From the repository root:
 npm install
 npm run dev
 ```
@@ -97,21 +107,58 @@ Visit `http://localhost:5173`
 
 ---
 
-### Backend (FastAPI + PostgreSQL)
+### 3. Backend (FastAPI + MongoDB)
 
 ```bash
-cd influence-ui/backend
+# Go to the backend folder:
+cd backend
+# Create a virtual environment and activate it:
+python -m venv venv
+# On Windows:
+.\venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+
+# Install dependencies and start:
 pip install -r requirements.txt
 python run.py
 ```
 
 Runs at `http://localhost:8000`
 
-**Database:** Requires PostgreSQL running locally.  
-Connection string in `app/database.py`:
+---
+
+### 4. ML Engine (Standalone FastAPI)
+
+```bash
+# Go to the ML engine directory:
+cd "Influende Simulator"
+# Activate the virtual environment or run:
+pip install fastapi uvicorn scikit-learn pandas numpy
+uvicorn api:app --reload --port 8001
 ```
-postgresql://postgres:<password>@localhost:5432/influence_db
+
+Runs at `http://localhost:8001`
+
+**Endpoint:**
 ```
+GET /predict/{idea_name}
+```
+
+---
+
+### 5. Study Guide & Exam Questions Generator
+We have included a script `guide.js` to generate a comprehensive Software Engineering study guide Document (`.docx`).
+
+To generate the study guide:
+```bash
+# From the repository root:
+npm install
+node guide.js
+```
+This generates the file `Software_Engineering_Study_Guide.docx` directly in the project directory.
+
+---
 
 **API Endpoints:**
 | Method | Route | Description |
